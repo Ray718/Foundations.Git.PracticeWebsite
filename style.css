@@ -11,9 +11,9 @@ body {
     
 }
 
-/* .navLinks {
+.navLinks {
     order: 5;
-} */
+}
 
 .navbar a {
     list-style: none;
