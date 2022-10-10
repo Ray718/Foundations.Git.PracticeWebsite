@@ -6,8 +6,8 @@ body {
     flex-direction: row;
     /* align-items:center; */
     justify-content: center;
-    /* width: 100%; */
-    /* border: 5px solid white; */
+    width: 100%;
+    border: 5px solid white;
     
 }
 
