@@ -1,6 +1,12 @@
 body {
     background:black;
+    display: flex;
 }
+
+.image-gallery {
+    flex-direction: row;
+}
+
 .navbar .navLinks {
     display: flex;
     flex-direction: row;
