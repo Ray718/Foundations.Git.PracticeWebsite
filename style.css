@@ -7,6 +7,18 @@ body {
     flex-direction: row;
 }
 
+#photo1 {
+    max-inline-size: 350px;
+}
+
+#photo2 {
+    max-inline-size: 350px;
+}
+
+#photo3 {
+    max-inline-size: 350px;
+}
+
 .navbar .navLinks {
     display: flex;
     flex-direction: row;
